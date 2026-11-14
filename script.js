@@ -3,7 +3,7 @@
   This is the direct link to the latest GitHub Release APK asset.
   NOTE: The repository is private, so only users with repository access can download it.
 */
-const APK_DOWNLOAD_URL = "./Smart-munims-debug-build-18.apk";
+const APK_DOWNLOAD_URL = "./Smart-munims-debug-build-19.apk";
 
 document.getElementById("year").textContent = new Date().getFullYear();
 
